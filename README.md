@@ -1,4 +1,4 @@
-# electron
+# Electron Functions Native
 
 **Clone and run for a quick way to see Electron in action.**
 
