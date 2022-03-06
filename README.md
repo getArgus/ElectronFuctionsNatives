@@ -18,7 +18,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/
+git clone https://github.com/getArgus/ElectronFuctionsNatives
 # Go into the repository
 cd ElectronFuctionsNatives
 # Install dependencies
